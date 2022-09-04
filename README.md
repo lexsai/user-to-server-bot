@@ -1,6 +1,9 @@
 # Cloner-Bot:
 A discordpy rewrite bot that clones messages sent from one server and sends them into the 'nexus server'.
 
+Update:
+Four years old. Almost certainly does not work with the modern discord API, especially with discord's recent moves towards limited intents.
+
 # Disclaimer:
 This bot uses *selfbots*.
 
